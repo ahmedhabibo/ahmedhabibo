@@ -73,6 +73,6 @@ I run [NIMStats](https://github.com/MauroDruwel/NIMStats) — automated hourly b
 ## 📫 Get in Touch
 
 - LinkedIn: [linkedin.com/in/ahmedhabibooo](https://www.linkedin.com/in/ahmedhabibooo)
-- X / Twitter: [@ahmedhabibooo](https://x.com/ahmedhabibooo)
+- X / Twitter: [@ahmedhassanERP](https://x.com/ahmedhassanERP)
 - Email: a.hassan.b.h@gmail.com
 - Blog: [awesome-odoo-mena](https://github.com/ahmedhabibo/awesome-odoo-mena)
