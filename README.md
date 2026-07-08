@@ -1,91 +1,78 @@
-<hr>
+# Hello, I'm [Ahmed Hassan](https://github.com/ahmedhabibo) 👋
 
-## Ahmed Hassan
-### Finance Manager • ERP Consultant • AI Agents Architect
-**Cairo, Egypt • Open to KSA / UAE / Remote**
+I'm a **Finance Manager (15+ yrs)** and **ERP Consultant (Odoo, SAP B1)** transitioning into **AI Agents architecture** for business systems. Currently based in Cairo, Egypt — open to opportunities in **Saudi Arabia, UAE, and remote**.
 
----
+My work combines three active tracks: financial leadership, open-source ERP consulting in MENA, and building AI agent infrastructure for automated business workflows.
 
-> Finance leadership professional with 15+ years across ERP implementation, financial management, and business process automation. Currently transitioning into remote ERP consulting and AI agent architecture for business systems.
+## 🚀 My Work
 
----
+### 💼 Finance & ERP Leadership
 
-### 🔭 Current Focus
+15+ years across ERP implementation, financial management, and multi-currency operations. I've led multi-group Odoo CE rollouts in interior design, real estate, construction/finishing, manufacturing, MEP, energy, and healthcare — across Egypt, UAE, Sudan, and KSA.
 
-- **Track 1 (50%):** Finance Manager / Controller / Director — 15+ years experience, leadership in financial close, budgeting, multi-currency consolidation, IFRS/GAAP compliance
-- **Track 2 (30%):** AI Agents Architect — building Hermes Agent infrastructure for automated ERP workflows, web scraping pipelines, and multi-agent orchestration
-- **Track 3 (20%):** Odoo ERP Consulting in MENA — Odoo CE implementation, OCA modules, Arabic localization, VAT compliance (Egypt/KSA/UAE)
+- Financial close automation, IFRS/GAAP compliance, audit trail design
+- Multi-company consolidation across Egypt, Saudi Arabia, and UAE entities (EGP / SAR / AED)
+- VAT compliance: Egypt ETA e-invoicing, KSA ZATCA Phase 2, UAE FTA VAT returns
+- ERP stack: Odoo CE, SAP B1, Tally Prime, Sage 300, QuickBooks
 
-### 🌍 Regions
+### 🏗️ Odoo ERP Consulting in MENA
 
-| Region | Status |
-|--------|--------|
-| 🇸🇦 Saudi Arabia | Primary target — KSA visa pathway |
-| 🇦🇪 UAE | Active — familiar with FTA VAT compliance |
-| 🇪🇬 Egypt | Current location — on-site/remote |
-| 🌐 Remote | Fully open — 3-track portfolio |
+I maintain [awesome-odoo-mena](https://github.com/ahmedhabibo/awesome-odoo-mena) — a curated list of Odoo ERP resources for the MENA region. The OCA has repos for most countries but **no official Egypt or Arabic localization exists** — that's the gap I'm working to fill.
 
-### 🛠️ Tech Stack
+- [awesome-odoo-mena](https://github.com/ahmedhabibo/awesome-odoo-mena) - Curated OCA modules, Arabic localization, VAT compliance for Egypt / KSA / UAE / Sudan
+- [odoo/odoo](https://github.com/odoo/odoo) - The core ERP — built it locally for custom module dev
+- OCA modules I track: [account-financial-tools](https://github.com/OCA/account-financial-tools), [multi-company](https://github.com/OCA/multi-company), [currency](https://github.com/OCA/currency), [reporting-engine](https://github.com/OCA/reporting-engine)
 
-**ERP & Finance:**
-- Odoo CE (15+ years), SAP B1, Tally, Sage 300, QuickBooks
-- Multi-currency consolidation, IFRS/GAAP compliance
-- Financial close automation, audit trail, VAT/tax compliance
+### 🤖 AI Agents Architecture
 
-**AI & Automation:**
-- Hermes Agent (by Nous Research) — primary agent runtime
-- NVIDIA NIM Free API — model inference and benchmarking
-- Mixture-of-Agents (MoA) architecture — multi-model orchestration
-- Python, SQL, Git/GitHub, API integrations
+I run [NIMStats](https://github.com/MauroDruwel/NIMStats) — automated hourly benchmarks for 20+ NVIDIA NIM models. Hermes Agent is my primary runtime for automating ERP workflows, web scraping pipelines, and multi-agent orchestration.
 
-**Development:**
-- Python (Pandas, financial analysis, automation scripts)
-- SQL (PostgreSQL, Odoo ORM, multi-DB querying)
-- Bash/Shell (deployment, DevOps, cron automation)
-- Docker (Odoo deployment, self-hosting)
+- [NIMStats](https://github.com/MauroDruwel/NIMStats) - Hourly benchmarks for NVIDIA NIM models — my contribution to the open-source AI infra ecosystem
+- [hermes-lite](https://github.com/ahmedhabibo/hermes-lite) - Local-first LLM tooling for Hermes Agent (v0.7.0 routing flip: LOCAL=default, NIM=heavy)
+- [hermes-webui](https://github.com/ahmedhabibo/hermes-webui) - Browser interface for Hermes Agent — my fork of nesquena/hermes-webui
+- [hiring-agent](https://github.com/ahmedhabibo/hiring-agent) - AI agent for resume evaluation — fork of interviewstreet/hiring-agent
 
-### 📦 Key Projects
+### 🧰 Skills & Tools I Authored / Maintained
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [NIMStats](https://github.com/MauroDruwel/NIMStats) | Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable | JavaScript, API integration |
-| [awesome-odoo-mena](https://github.com/ahmedhabibo/awesome-odoo-mena) | Curated list of Odoo ERP resources for MENA region — OCA modules, Arabic localization, VAT compliance | Documentation, Open Source |
-| [hermes-lite](https://github.com/ahmedhabibo/hermes-lite) | Local-first LLM tooling for Hermes Agent — local-default routing, NIM cloud for heavy tasks | Python, local LLM, Qwen |
-| [hermes-webui](https://github.com/ahmedhabibo/hermes-webui) | Fork of Hermes WebUI — browser-based interface for Hermes Agent | Python, Flask, WebSocket |
-| [hiring-agent](https://github.com/ahmedhabibo/hiring-agent) | AI agent for resume evaluation and scoring | Python, AI/ML |
-| [hermes-android](https://github.com/ahmedhabibo/hermes-android) | Android companion app for Hermes Agent | Android, Kotlin |
+- [NIMStats](https://github.com/MauroDruwel/NIMStats) - Automated hourly benchmarks for NVIDIA NIM Free API models
+- [hermes-android](https://github.com/ahmedhabibo/hermes-android) - Android companion for Hermes Agent
+- [firecrawl-local](https://github.com/ahmedhabibo/hermes-freecrawl) - Self-hosted Firecrawl proxy at localhost:3003
 
-### 📜 Certifications & Experience
+## 📚 My Engineering Stack
 
-- **ERP Implementation:** Odoo CE (multi-group deployment), SAP B1 (manufacturing, retail), Tally Prime, Sage 300, QuickBooks
-- **Industries:** Interior design, real estate, construction/finishing, manufacturing, MEP, energy, healthcare
-- **Regions:** Egypt, UAE, Sudan, Saudi Arabia
-- **Languages:** Arabic (native), English (fluent)
+### Languages
+- **Python** (primary) — financial analysis, automation, agent scripts
+- **SQL** (PostgreSQL, Odoo ORM) — multi-DB querying, migrations, analytics
+- **Bash / Shell** — deployment, DevOps, cron automation
 
-### 🔗 Links
+### ERP & Finance
+- **Odoo CE** (15+ years) — custom modules, multi-company, accounting localization
+- **SAP B1, Tally Prime, Sage 300, QuickBooks** — concurrent engagements across industries
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OpenToWork-blue)](https://www.linkedin.com/in/ahmedhabibooo)
-[![X/Twitter](https://img.shields.io/badge/X-@ahmedhabibooo-black)](https://x.com/ahmedhabibooo)
-[![Email](https://img.shields.io/badge/Email-a.hassan.b.h@gmail.com-red)](mailto:a.hassan.b.h@gmail.com)
+### AI & Agents
+- **Hermes Agent** (NousResearch) — primary agent runtime, persistent memory, multi-platform gateways
+- **NVIDIA NIM Free API** — model inference, minute-level quotas, MoA reference designs
+- **Mixture-of-Agents (MoA)** — multi-model orchestration via GLM-Council / Nemotron presets
 
-### 📊 GitHub Stats
+### Knowledge & Infra
+- **Obsidian** + siyuan-note — note-taking, consulting knowledge graph
+- **AWS Lambda**, Docker, GitHub Actions — self-hosting + deployment
+- **PostgreSQL** + **OpenHuman** + **lighttpd** — local AI stack
+- **Hindsight** — long-term memory layer for Hermes
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhabibo&show_icons=true&theme=default)](https://github.com/ahmedhabibo)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhabibo&layout=compact)](https://github.com/ahmedhabibo)
+## 🌍 Regions & Languages
 
----
+- **Saudi Arabia 🇸🇦** — primary target (KSA visa pathway via sister's medical work)
+- **UAE 🇦🇪** — familiar with FTA VAT compliance + free-zone accounting
+- **Egypt 🇪🇬** — current location, full ERP implementation experience
+- 🌐 Remote — fully open across all 3 tracks
 
-<details>
-<summary>📂 My GitHub Lists</summary>
+- **Arabic** — native
+- **English** — fluent (professional working proficiency)
 
-- [ERP and Finance — Track 1+3](https://github.com/ahmedhabibo?tab=stars) — Odoo, OCA modules, accounting, ERP, fintech
-- [Agent Architecture — Track 2](https://github.com/ahmedhabibo?tab=stars) — AI agent frameworks, orchestration, MCP
-- [Daily Drivers](https://github.com/ahmedhabibo?tab=stars) — Hermes Agent, Firecrawl, Odoo, NIMStats
-- [Skills and Prompt Engineering](https://github.com/ahmedhabibo?tab=stars) — Agent skills, system prompts
-- [Infra and Self-Hosting](https://github.com/ahmedhabibo?tab=stars) — Docker, SSH, self-hosting tools
-- [Watch Later](https://github.com/ahmedhabibo?tab=stars) — Exploratory repos
+## 📫 Get in Touch
 
-</details>
-
----
-*💼 Open to Finance Manager, Financial Controller, ERP Consultant, and AI Applications roles. KSA / UAE / Remote preferred.*
+- LinkedIn: [linkedin.com/in/ahmedhabibooo](https://www.linkedin.com/in/ahmedhabibooo)
+- X / Twitter: [@ahmedhabibooo](https://x.com/ahmedhabibooo)
+- Email: a.hassan.b.h@gmail.com
+- Blog: [awesome-odoo-mena](https://github.com/ahmedhabibo/awesome-odoo-mena)
